@@ -86,7 +86,7 @@ This project represents a **Salesforce-based digital transformation** initiative
 ## 🔗 Project Links
 
 - 🔗 **GitHub Repo**: [Handsmen-Threads-Salesforce](https://github.com/anushka2905/Handsmen-Threads-Salesforce)
-- 🎥 **Demo Video**: [Click Here](https://drive.google.com/file/d/11x-km_9AECH8YnPggWR-T4qOZ6wXpWCW/view?usp=drive_link)
+- 🎥 **Demo Video**: [Click Here](https://drive.google.com/file/d/1Y7O3ZkQZWx3ecD3qLnoFWbXrIAVfSM6U/view?usp=sharing)
 
 ---
 
