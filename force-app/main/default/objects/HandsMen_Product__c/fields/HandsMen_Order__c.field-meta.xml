@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>HandsMen_Order__c</fullName>
+    <deleteConstraint>SetNull</deleteConstraint>
+    <externalId>false</externalId>
+    <label>HandsMen Order</label>
+    <referenceTo>HandsMen_Order__c</referenceTo>
+    <relationshipLabel>HandsMen Products (HandsMen Order)</relationshipLabel>
+    <relationshipName>HandsMen_Products1</relationshipName>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Lookup</type>
+</CustomField>
